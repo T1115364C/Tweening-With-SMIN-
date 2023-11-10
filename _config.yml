@@ -1,34 +1,4 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Tweening Example</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
-  <style>
-    #box {
-      width: 100px;
-      height: 100px;
-      background-color: red;
-      position: absolute;
-    }
-  </style>
-</head>
-<body>
-  <div id="box"></div>
 
-  <script>
-    // Target the box element
-    const box = document.getElementById('box');
-
-    // Use GSAP to create a tween animation
-    gsap.to(box, {
-      duration: 2, // Duration of the animation in seconds
-      x: 200, // Move the element horizontally by 200 pixels
-      y: 200, // Move the element vertically by 200 pixels
-      rotation: 360, // Rotate the element 360 degrees
-      scale: 2, // Scale the element by a factor of 2
-      opacity: 0.5, // Change the opacity of the element to 0.5
-      ease: 'power2.out' // Easing function for smooth animation
-    });
-  </script>
-</body>
-</html>
+url   : https://
