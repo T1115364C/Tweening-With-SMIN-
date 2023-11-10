@@ -1,4 +1,5 @@
-<!DOCTYPE html>
-<html>
-
-url   : https://tweening-with-smin/academicpages.github.io
+title                    : "Tween with Smin!"
+title_separator          : "-"
+name                     : &name "Smin:D"
+description              : &description "personal description"
+url                      : https://tween-with-smin.github.io/academicpages.github.io
